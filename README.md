@@ -39,9 +39,6 @@ My name is Helena, I'm 19 years old and a Software Engineering major. ˚ʚ♡ɞ�
   <img align="center" alt="sql" height="30" width="40" src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>
 </div>
 
- ## ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bluinha&theme=dracula" />
-
 
 
 
