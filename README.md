@@ -21,14 +21,12 @@ My name is Helena, I'm 19 years old and a Software Engineering major. ˚ʚ♡ɞ�
   </tr>
 </table>
 
+## Programming languages and programs ✦
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,figma,php,mysql,java,python)](https://skillicons.dev)
+
 ## My statistics ✦
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bluinha&theme=dracula" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bluinha&theme=dracula" />
 </p>
-
-## Programming languages and programs ✦
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,figma,php,mysql,java,python)](https://skillicons.dev)
-
-
 
