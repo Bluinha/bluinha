@@ -14,7 +14,7 @@
 My name is Helena, I'm 19 years old and a Software Engineering major. ˚ʚ♡ɞ˚
 
 - I’m currently working on web development projects 𖹭  
-- I’m currently learningj avascript and reactJS 𖹭  
+- I’m currently learning javascript and reactJS 𖹭  
 - I’m looking for help with game development 𖹭
 
     </td>
