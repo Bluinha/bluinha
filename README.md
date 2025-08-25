@@ -22,7 +22,7 @@ My name is Helena, I'm 19 years old and a Software Engineering major. ˚ʚ♡ɞ�
 </table>
 
 ## Programming languages and programs ✦
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,figma,php,mysql,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,figma,php,mysql,java,python,react)](https://skillicons.dev)
 
 ## My statistics ✦
 <p align="center">
